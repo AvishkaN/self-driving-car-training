@@ -1,0 +1,15 @@
+{
+  "current_folder_path":"data-2", 
+    "labels": {
+      "W": 0,
+      "A": 1,
+      "S": 2,
+      "D": 3
+    },
+    "labels_reversed": {
+      "0": "W",
+      "1": "A",
+      "2": "S",
+      "3": "D"
+    }
+  }
